@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">https://tesseractcoin.org/</h3>
+<h3 align="center">https://tesseractcoin.com/</h3>
 
 ---
 
