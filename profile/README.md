@@ -37,12 +37,14 @@ Be sure to stay notified for any changes or anncouncements!
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/TesseractDevs)
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wPA6eeUEpM)
+
 ## Donations
 
 If you appreciate our work and would like to donate to us, please so do with these cryptocurrencies:
 
-[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](monero:4863KYSB1sbXEFAFY7CujbH6i2eC1X7EtHtemrU5NB459s2QSCQacz2DtQhZCzKuDAA2HNdqruMCUfV2oUSrCvjR92otNTN)
+[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://localmonero.co/blocks/search/4863KYSB1sbXEFAFY7CujbH6i2eC1X7EtHtemrU5NB459s2QSCQacz2DtQhZCzKuDAA2HNdqruMCUfV2oUSrCvjR92otNTN)
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:bc1qywu0t00jymt3ujrf4a6x6n9gz5v8tcugkv5vsj)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/explorer/addresses/btc/bc1qywu0t00jymt3ujrf4a6x6n9gz5v8tcugkv5vsj)
 
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](ethereum:0xfF0a9Aa73c4E3A1b0d2A3fE8d78fC5d934c2A46B)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://www.blockchain.com/explorer/addresses/eth/0xfF0a9Aa73c4E3A1b0d2A3fE8d78fC5d934c2A46B)
